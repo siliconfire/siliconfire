@@ -1,27 +1,21 @@
-# Welcome here!
+# What i know about
 
-### About me
+### Languages
 
-I'm Çınar, someone with a passion for programming and computers in general.
-
-### What i know about
-
-#### Languages
-
-###### Webdev
+##### Webdev
 
 - HTML
 - CSS
 - JavaScript
 
-###### Other
+##### Other
 
 - Python
 - Bash
 
-#### Services
+### Tools
 
-- Git (obviously)
+- Git (you're here!)
 - Docker
 
 
@@ -29,4 +23,4 @@ I'm Çınar, someone with a passion for programming and computers in general.
 
 - matrix: [@siliconfire:matrix.org](https://matrix.to/#/@siliconfire:matrix.org)
 - discord: @siliconfire
-- email: me@siliconfire.me
+- email: [not for now]
