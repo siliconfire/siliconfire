@@ -1,22 +1,21 @@
+> [!WARNING]
+> Stuff might be (and probably is) outdated. Don't have time for anything right now, so i'll fix it later.
+
 # What i know about
 
-### Languages
-
-##### Webdev
-
+### Languages/...
 - HTML
 - CSS
 - JavaScript
-
-##### Other
-
+- React
 - Python
 - Bash
+- ...
 
 ### Tools
-
-- Git (you're here!)
+- Git
 - Docker
+- ...
 
 
 # Contact
