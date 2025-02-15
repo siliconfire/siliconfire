@@ -1,16 +1,23 @@
-## Hi there 👋
+# What I know about
 
-<!--
-**siliconfire/siliconfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!WARNING]
+> Stuff might be outdated.
 
-Here are some ideas to get you started:
+### Languages/Frameworks/...
+##### I know these on an "okay" level
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Python
+
+##### I'm working on improving these
+
+- Bash
+- Regex
+
+# Contact
+
+- matrix: [@siliconfire:matrix.org](https://matrix.to/#/@siliconfire:matrix.org)
+- discord: @siliconfire
+- email: (contact using above first)
