@@ -8,7 +8,7 @@
 
 - HTML
 - CSS
-- JavaScript
+- JS
 - Python
 
 ##### I know these on an "okay" level
@@ -18,7 +18,12 @@
 
 ##### Need to improve these
 
-- Bash
+- Bash (does it count??)
+
+#### Want to learn
+
+- TS
+
 
 # Contact
 
