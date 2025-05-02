@@ -4,23 +4,27 @@
 > Stuff might be outdated.
 
 ### Languages/Frameworks/...
-##### I know these on an "okay" level
+##### I know these well
 
 - HTML
 - CSS
 - JavaScript
 - Python
 
-##### I'm working on improving these
+##### I know these on an "okay" level
+
+- React
+- Regex
+
+##### Need to improve these
 
 - Bash
-- Regex
 
 # Contact
 
 - matrix: [@siliconfire:matrix.org](https://matrix.to/#/@siliconfire:matrix.org)
 - discord: @siliconfire
-- email: (contact using above first)
+- email: siliconfire@ralite.dev
 
 # PGP
 
