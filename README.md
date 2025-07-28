@@ -1,8 +1,5 @@
 # What I know about
 
-> [!WARNING]
-> Stuff might be outdated.
-
 ### Languages/Frameworks/...
 ##### I know these well
 
@@ -30,6 +27,9 @@
 - matrix: [@siliconfire:matrix.org](https://matrix.to/#/@siliconfire:matrix.org)
 - discord: @siliconfire
 - email: siliconfire@ralite.dev
+
+> [!TIP]
+> Keep in mind that I might also reach you from `cec**********t@gmail.com`. In any case, make sure that the mesage is signed with my private key.
 
 # PGP
 
