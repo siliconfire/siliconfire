@@ -7,11 +7,13 @@
 - CSS
 - JS
 - Python
+- React
+- Astro
 
 ##### I know these on an "okay" level
 
-- React
 - Regex
+- Tailwind
 
 ##### Need to improve these
 
@@ -26,7 +28,7 @@
 
 - matrix: [@siliconfire:matrix.org](https://matrix.to/#/@siliconfire:matrix.org)
 - discord: @siliconfire
-- email: siliconfire@ralite.dev
+- email: cinar@cinarcecen.dev
 
 > [!TIP]
 > Keep in mind that I might also reach you from `cec**********t@gmail.com`. In any case, make sure that the mesage is signed with my private key.
