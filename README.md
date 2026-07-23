@@ -6,32 +6,47 @@
 - HTML
 - CSS
 - JS
-- Python
 - React
 - Astro
+- Tailwind
+- Python
+- Regex
 
 ##### I know these on an "okay" level
 
-- Regex
-- Tailwind
+- Typescript
 
 ##### Need to improve these
 
 - Bash (does it count??)
 
-#### Want to learn
+### Tools
 
-- TS
+- Docker
+- Git
+- JJ
+- (a lot more honestly, i'm just a bit lazy to type them all, when most won't make too much of a difference)
+- (does my extensive linux experience count?)
 
+### Having said linux,
 
-# Contact
+I'm currently using NixOS (with niri as my WM), however i have previous experience with:
 
-- matrix: [@siliconfire:matrix.org](https://matrix.to/#/@siliconfire:matrix.org)
+- Ubuntu/Debian/Raspbian/Pop_OS!/AntiX
+- Fedora
+- Arch (did i tell you i used to use arch?)
+- Mint
+- ...and whatever else that i can't remember right now
+
+# Contact me
+
+- matrix: [@cinar:ralite.dev](https://matrix.to/#/@cinar:ralite.dev)
 - discord: @siliconfire
 - email: cinar@cinarcecen.dev
 
 > [!TIP]
-> Keep in mind that I might also reach you from `cec**********t@gmail.com`. In any case, make sure that the mesage is signed with my private key.
+> If someone is pretending to be me, ask them to sign their messages, then verify it with the public key below. (or just give me your public key, we'll encrypt next time!)
+
 
 # PGP
 
