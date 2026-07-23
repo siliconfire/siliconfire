@@ -16,7 +16,7 @@
 
 - Typescript
 
-##### Need to improve these
+##### I Need to improve these
 
 - Bash (does it count??)
 
